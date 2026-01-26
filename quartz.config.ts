@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
+    pageTitle: "Higher Intelligence",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -19,40 +19,42 @@ const config: QuartzConfig = {
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Source Serif 4",
+        body: "Source Serif 4",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f7f8fa",
+          lightgray: "#e4e9ef",
+          gray: "#b8c4d1",
+          darkgray: "#445566",
+          dark: "#1c2430",
+          secondary: "#2b5f73", // link / accent (blue-teal)
+          tertiary: "#4f9a94", // secondary accent (green-teal)
+          highlight: "rgba(43, 95, 115, 0.10)",
+          textHighlight: "rgba(79, 154, 148, 0.28)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#12161c",
+          lightgray: "#26303a",
+          gray: "#3b4958",
+          darkgray: "#d5dde7",
+          dark: "#f2f5f8",
+          secondary: "#86b7c9",
+          tertiary: "#7cc9c1",
+          highlight: "rgba(134, 183, 201, 0.12)",
+          textHighlight: "rgba(124, 201, 193, 0.22)",
         },
       },
     },
   },
+
   plugins: {
     transformers: [
       Plugin.FrontMatter(),

@@ -1,3 +1,60 @@
+/* Quartz global styles entrypoint.
+   Keep this line so Quartz base styling loads. */
 @use "./base.scss";
 
-// put your custom CSS here!
+/* (Optional) Your overrides go BELOW this line. */
+/* Hide page header (title, date, read time) */
+.page-header {
+  display: none;
+}
+
+.folder-stats {
+  display: none;
+}
+
+/* Card-style boxes (homepage sections) */
+.card {
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  margin: 1.25rem 0;
+  background: var(--light);
+}
+
+/* Slight emphasis for card titles */
+.card h1,
+.card h2,
+.card h3 {
+  margin-top: 0;
+}
+/* Make the top/title card feel like a "hero" */
+.hero-card {
+  border: 2px solid var(--secondary);
+  padding: 1.75rem 1.75rem;
+  background: var(--highlight);
+}
+
+/* Optional: tighten subtitle spacing inside hero */
+.hero-card h2 {
+  margin-top: 0.25rem;
+}
+/* Two-column card grid */
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;
+}
+
+/* Inner cards inside a container */
+.sub-card {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  padding: 1.25rem 1.5rem;
+}
+
+/* Stack on mobile */
+@media (max-width: 800px) {
+  .card-grid {
+    grid-template-columns: 1fr;
+  }
+}

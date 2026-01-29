@@ -1,15 +1,22 @@
 ---
-title: SAMPLE VAULTS
+title: VAULTS
 showtoc: false
 showgraph: false
 cssclasses: no-header
 ---
-# SAMPLE VAULTS
+# VAULTS
 ___
 
-Knowledge vaults can be employed in a variety of ways to address public affairs challenges 
+**Vaults are built around a simple research truth: information only matters if it moves.**
 
-Below is a collection of sample vaults applied to real use cases:
+Too often, campaign and PR research is fragmented—buried in inboxes, siloed across teams, and slow to surface when it’s needed most.
 
-- [[projects/political/talarico/01_Overview|POLITICAL]]
+Our philosophy is _collect and connect_.  
+
+Vaults are digital research storehouses that centralize relevant information, connect related facts, and make insights immediately accessible to teams and stakeholders.
+
+We collect what matters to you—and connect the dots so you can act.
+
+Examples of our vaults can be found below:
+- [[projects/political/index|Texas Senate Race 2026]]
 

@@ -1,8 +1,8 @@
 >[!info] PUBLIC RECORDS KNOWLEDGE FOLDER
 >- Updated January 2026 // Beta Test
->- This is a DRAFT research folder on Texas Senate Candidate James Talarico. The folder compiles publicly available open source records into a singular website, organized by subject area.
->- In addition to serving as a source aggregator, the site includes summaries of the data collected, and highlights key areas for additional analysis.
->- NOTE: News Coverage ends December 31, 2024. Content unverified & for display purposes.
+>- This is a DRAFT public records folder on Texas Senate Candidate James Talarico. The folder compiles publicly available open source records into a singular website, organized by subject area.
+>- In addition to serving as a source aggregator, the site includes summaries of the data collected, and highlights areas for additional analysis.
+>- NOTE: News Coverage ends December 31, 2024. Summary content unverified & for display purposes.
 # JAMES TALARICO
 ___
 ![[Talarico_Image_Headshot.png|500]]
@@ -55,7 +55,7 @@ ___
 # OBSERVATIONS
 ___
 >[!note] NOTE
->*Consulting Expertise;  "Key Findings;" Digestible Summary of findings as they pertain to the client*
+>*Consulting Section;  "Key Findings;" Digestible Summary of findings as they pertain to the client*
 ## In The News
 >[!abstract] COVERAGE SNAPSHOT (NATIONAL)
 >**Total Articles Included:** 48 Articles mentioning "James Talarico"
@@ -157,10 +157,10 @@ ___
 # OPPORTUNITIES
 ___
 >[!note] NOTE
->*Consulting Expertise; Questions Raised; Attention Items; Missing or Fail; Errors; Items that raise questions or opportunities for further investigation*
+>*Consulting Section; Questions Raised; Attention Items; Missing Info; Red Flags*
 ## Topline
 
-> [!quote] KEY QUOTES & HEADLINES
+> [!quote] DIRECT QUOTES
 > - “If they think they can keep me off the House floor, they better think again.”
 > 
 > - “Every time, on this committee, we try to teach basic sex education, but we can’t because we’re told that’s the parents’ role. Now, you’re putting literal commandments — religious commandments — in our classrooms, and we’re told that’s the state’s role.”
@@ -182,8 +182,8 @@ ___
 >- etc.
 ## Opportunities
 
-> [!question] Professional Credentials
->- **Teaching Career:** James Talarico held a Texas Educator Certificate (Generalist, Grades 4–8) from 2011 to 2018, transitioning from a probationary license to a standard certificate that is now inactive. State rules require renewal every five years, but available records suggest no renewal filing after spring 2013—raising questions given that his two-year teaching tenure has been a central part of his political narrative and rise. [[04_Business & Professional Information#**EDUCATION RECORDS**|MORE>>>]]
+> [!question] PROFESSIONAL CREDENTIALS
+>- **Teaching Career:** Talarico held a Texas Educator Certificate (Generalist, Grades 4–8) from 2011 to 2018, transitioning from a probationary license to a standard certificate that is now inactive. State rules require renewal every five years, but available records suggest no renewal filing after spring 2013—raising questions given that his two-year teaching tenure has been a central part of his political narrative and rise. [[04_Business & Professional Information#**EDUCATION RECORDS**|MORE>>>]]
 
 > [!warning] POLITICAL MATTERS
 > - **Partisan Consulting Firm:** From September 2019 until 2023, Talarico worked at the progressive education consultancy, MAYA Consulting. [[04_Business & Professional Information#*Education Consultant*|MORE>>>]]

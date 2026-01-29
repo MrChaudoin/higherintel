@@ -6,37 +6,19 @@ showgraph: false
 cssclasses: no-header
 ---
 
-# HIGHER INTELLIGENCE CONSULTING
+# HIGHER INTELLIGENCE
 ___
-
-## *Knowledge Vaults for Information Workers*
-
-Higher Intelligence is a consulting firm specializing in knowledge management and information analysis.
-
-This is our public vault — a curated knowledge workspace where notes, ideas, and research threads are captured, refined, linked, and reused over time. 
-
-<div class="card nav-card">
-
-<div class="card-grid">
-
-<div class="card sub-card">
-
 ## ABOUT
+**Higher Intelligence is a research consulting practice built for public affairs campaigns.**
 
-This site is a living research vault built to capture, organize, and connect ideas over time.
-[MORE>>>](/about)
+Drawing on more than 15 years of experience across corporate, political, and PR work, we develop creative research solutions tailored to complex, fast-moving challenges.
 
-</div>
+This site represents a sampling of our capabilities, to learn more please email: joechaudoin@gmail.com
 
-<div class="card sub-card">
+[About Joe](https://www.linkedin.com/in/joe-chaudoin-a55325b/) 
 
-## SAMPLE VAULTS
 
-A small collection of example vaults demonstrating how projects can be structured, documented, and published.  
+## VAULTS
+
+A growing collection of example vaults demonstrating how projects can be structured, documented, and published.  
 [[projects/index|MORE>>>]]
-
-</div>
-
-</div>
-
-</div>

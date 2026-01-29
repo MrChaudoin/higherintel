@@ -1,16 +1,16 @@
 ---
-title: POLITICAL
+title: TEXAS SENATE (2026)
 showtoc: false
 showgraph: false
 showfolder: false
 cssclasses: no-header
 ---
-# POLITICAL VAULT
+# Texas Senate (2026)
 ___
 ## *Summary*
 
+Public information vault on candidates running for U.S. Senate in Texas.
+
 >[!abstract] QUICK LINKS
-> Samples of knowledge vaults serving as political dossiers:
->
->- [[projects/political/talarico/01_Overview|SAMPLE Political Research File]]
+> - [[projects/political/talarico/01_Overview|James Talarico]]
 

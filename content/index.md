@@ -18,7 +18,3 @@ This site represents a sampling of our capabilities, to learn more please email:
 [About Joe](https://www.linkedin.com/in/joe-chaudoin-a55325b/) 
 
 
-## VAULTS
-
-A growing collection of example vaults demonstrating how projects can be structured, documented, and published.  
-[[projects/index|MORE>>>]]
